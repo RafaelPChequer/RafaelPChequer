@@ -26,4 +26,4 @@
 
 <h3 align="left">Most Used Languages:</h3>
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPChequer&layout=compact&langs_count=8&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPChequer&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=ffffff&text_color=ffffff&bg_color=000000)
