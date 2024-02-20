@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
-<img align="center" alt="Fire" width="400" src="https://freefrontend.com/assets/img/css-fire-animation/CSS-Fire.gif">
+<img align="right" alt="Fire" width="400" src="https://freefrontend.com/assets/img/css-fire-animation/CSS-Fire.gif">
 
 - 🔭 I’m currently working on [NuVidio](https://nuvidio.com.br)
 
