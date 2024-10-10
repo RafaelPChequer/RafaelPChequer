@@ -11,7 +11,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://replit.com/@RafaelParreira](https://replit.com/@RafaelParreira)
 
-- 💬 Ask me about **C, Java, Python, HTML, CSS, JavaScript**
+- 💬 Ask me about **C, Java, Python, HTML, CSS, TypeScript, React**
 
 - 📫 How to reach me **rafaelpchequer@gmail.com**
 
