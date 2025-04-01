@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/e1/29/98/e12998b73503f38979b2c267b489fc9b.gif">
 </p>
-<h1 align="center">Hi 👋, I'm Rafael</h1>
-<h2 align="center">A passionate fullstack developer from Brazil</h2>
+<h2 align="center">Hi 👋, I'm Rafael</h2>
+<h3 align="center">A passionate fullstack developer from Brazil</h3>
 <img align="right" alt="Fire" width="400" src="https://freefrontend.com/assets/img/css-fire-animation/CSS-Fire.gif">
 
 - 🔭 I’m currently working on [NuVidio](https://nuvidio.com.br)
