@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/e1/29/98/e12998b73503f38979b2c267b489fc9b.gif">
 </p>
 <h1 align="center">Hi 👋, I'm Rafael</h1>
-<h3 align="center">A passionate fullstack developer from Brazil</h3>
+<h2 align="center">A passionate fullstack developer from Brazil</h2>
 <img align="right" alt="Fire" width="400" src="https://freefrontend.com/assets/img/css-fire-animation/CSS-Fire.gif">
 
 - 🔭 I’m currently working on [NuVidio](https://nuvidio.com.br)
@@ -90,13 +90,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RafaelPChequer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelPChequer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaelPChequer/RafaelPChequer/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafaelPChequer/RafaelPChequer/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RafaelPChequer/RafaelPChequer/output/pacman-contribution-graph.svg">
-</picture>
-
-###
