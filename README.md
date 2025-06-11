@@ -5,7 +5,7 @@
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 <img align="right" alt="Fire" width="400" src="https://freefrontend.com/assets/img/css-fire-animation/CSS-Fire.gif">
 
-- 🔭 I’m currently working on [PTec]([https://ptec.dev/])
+- 🔭 I’m currently working on [PTec](https://ptec.dev/)
 
 - 🌱 I’m currently learning **Go, Machine Learning, IA, Cloud Development**
 
